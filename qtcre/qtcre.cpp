@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 
 	if(argc < 3)
 	{
-		std::cout << endl << "usage: ./qtcre.exe <executable path> <image base>" << endl;
+		std::cout << endl << "usage: ./qtcre <executable path> <image base>" << endl;
 		return 1;
 	}
 	
