@@ -52,6 +52,16 @@ resource_name_ptr: 0x2b4870
 >
 ```
 
+## Licensing
+
+This software is licensed under the terms of the AGPLv3, with exemptions for specific projects noted below.
+
+You can find a copy of the license in the LICENSE file.
+
+Exemptions:
+
+- [Krzysztof Saczuk](https://github.com/zakuciael) is exempt from AGPLv3 licensing and may (at his option) instead license any source code authored for the qtcre project under the GPLv3 license.
+
 ## Credits
 
 - My research during this project was heavily based on [QT's Resource Compiler source code](https://code.qt.io/cgit/qt/qtbase.git/tree/src/tools/rcc/rcc.cpp?h=dev).
