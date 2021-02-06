@@ -54,7 +54,7 @@ resource_name_ptr: 0x2b4870
 
 ## Licensing
 
-This software is licensed under the terms of the AGPLv3, with exemptions for specific projects noted below.
+This software is licensed under the terms of the AGPLv3, with exemptions for specific people noted below.
 
 You can find a copy of the license in the LICENSE file.
 
