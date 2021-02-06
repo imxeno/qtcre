@@ -64,5 +64,5 @@ Exemptions:
 
 ## Credits
 
-- My research during this project was heavily based on [QT's Resource Compiler source code](https://code.qt.io/cgit/qt/qtbase.git/tree/src/tools/rcc/rcc.cpp?h=dev).
+- My research during this project was heavily based on [Qt's Resource Compiler source code](https://code.qt.io/cgit/qt/qtbase.git/tree/src/tools/rcc/rcc.cpp?h=dev).
 - Special thanks to [Lank](https://github.com/Lank891) for his common sense.
